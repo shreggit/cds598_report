@@ -29,3 +29,7 @@ pip install luxai2021 stable_baselines3 torch
 - `Imitation Learning Final/train.py`
 - Agent Policy
 - `Imitation Learning Final/agent.py`
+- UNet Model File (Class)
+- 'Imitation Learning Final/unet_model.py'
+- UNet Parts (all blocks of the UNet model, i.e, Conv Blocks, Decoder, Encoder, Attention Maps etc.)
+- 'Imitation Learning Final/unet_parts.py'
