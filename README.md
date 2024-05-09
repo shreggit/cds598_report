@@ -19,17 +19,13 @@ pip install luxai2021 stable_baselines3 torch
 - `PPO/main.py`
 
 ## IL Midterm Folder Contents
-- File to train the model
-- `Imitation Learning Midterm/`
 - Agent Policy
-- `Imitation Learning Midterm/`
+- `Imitation Learning Midterm/agent.py`
 - Trained Model
-- `Imitation Learning Midterm/`
+- `Imitation Learning Midterm/model_il.pth`
 
 ## IL Final Folder Contents
 - File to train the model
-- `Imitation Learning Final/`
+- `Imitation Learning Final/train.py`
 - Agent Policy
-- `Imitation Learning Final/`
-- Trained Model
-- `Imitation Learning Final/`
+- `Imitation Learning Final/agent.py`
